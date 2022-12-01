@@ -6,14 +6,14 @@
      O Use the Aladdin student portfolio walk-through as a model to create YOUR own "professional" student portfolio.
      O "Professional" means that you would be able to present this student portfolio to an employer or higher education organization to demonstrate your CS skills. 
      O Maintain the structure from the Aladdin student portfolio walk-through project as stated in General Specifications below.
-     - Select your own colors / color palette
-     - Select your own font(s)
-     - Update your Projects page to include project cards for all FOUR of your projects to this point placing the most recent first.
+     O Select your own colors / color palette
+     O Select your own font(s)
+     O Update your Projects page to include project cards for all FOUR of your projects to this point placing the most recent first.
      - Structure and style the "About Me" page in a creative and professional manner. See ...  ["How to write an About Me Page in your online portfolio"](https://www.makeuseof.com/how-to-write-about-me-page-online-portfolio/)
-     - Your images and pdf files should be stored in the "assets" folder.
-     - Adhere to any and all copyright concerns
+     O Your images and pdf files should be stored in the "assets" folder.
+     O Adhere to any and all copyright concerns
      - Add one HTML or CSS feature that we have yet to use in our projects to date.
-     - Follow [Front-End Design Rules](https://metapress.com/top-5-front-end-design-rules-for-developers/) and [Principles of Good Web Design](https://www.feelingpeaky.com/9-principles-of-good-web-design/)
+     O Follow [Front-End Design Rules](https://metapress.com/top-5-front-end-design-rules-for-developers/) and [Principles of Good Web Design](https://www.feelingpeaky.com/9-principles-of-good-web-design/)
  - This project will be published on the internet using GitHub pages (as demonstrated in the walk-through) and thus should be appropriate for public viewing and your educational institution's representation
 
 

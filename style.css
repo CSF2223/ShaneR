@@ -1,13 +1,15 @@
 /*
 Color Palette
-background color: #200439 --> 285430
-primary: #512C73
-secondary: #361356
+background color: #285430
+primary: 
+secondary: 
 tertiary: #A4BE7B
-accent: #9277AC --> E5D9B6
+accent: #E5D9B6
 white: #fff
 black: #000  
 */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;500;700&display=swap');
 
 html {
     /* If we add any padding or border onto an element it does not affect the width of the element */
@@ -17,10 +19,11 @@ html {
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Slab', serif;
     font-weight: 300;
     background-color: #285430;
     color: #fff;
+
 }
 
 .hero {
