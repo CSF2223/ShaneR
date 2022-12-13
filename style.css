@@ -1,9 +1,9 @@
 /*
 Color Palette
 background color: #285430
-primary: 
-secondary: 
-tertiary: #A4BE7B
+primary: #5F8D4E
+secondary: #A4BE7B
+tertiary: n/a
 accent: #E5D9B6
 white: #fff
 black: #000  
@@ -145,7 +145,7 @@ body {
     padding: 1.5rem;
 }
 
-footer {
+.footer {
     text-align: center;
     color: #5F8D4E;
     margin: 10rem 0;
@@ -199,5 +199,40 @@ footer {
     .projectCard {
         max-width: 20%;
     }
+ 
+    .aboutMe {
+        max-width: 90%;
+        
+    }
+    .aboutMe img {
+        max-width: 70%;
+    }
+    .aboutMe {
+    background-color: #E5D9B6;
+    color: #285430;
+    margin: 4rem 3rem;
+    padding: 0.5rem 2rem;
+    text-align: center;
+    border: 1px solid #9277AC;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 5px #000;
+}
+
+    .aboutMe img {
+    width: 100%;
+    height: auto;
+    border-radius: 3rem;
+    margin: 1rem 0;
+}
+
+    .aboutMe h2 {
+    margin: 0.5rem 1rem 1.5rem 1rem;
+    font-weight: 600;
+}
+
+    .aboutMe p {
+    font-size: 1rem;
+    font-weight: 400;
+}
     
 }
